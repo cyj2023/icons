@@ -1,6 +1,6 @@
 {
   "name": "图标订阅",
-  "description": "收集一些自己常用的图标,更新日期：2024-1-12 12:48:00",
+  "description": "收集一些自己常用的图标,更新日期：2024-1-16 16:30:00",
   "icons": [
     {
       "name": "MEGA",
@@ -25,6 +25,10 @@
       {
       "name": "KTMCloud",
       "url": "https://raw.githubusercontent.com/cyj2023/icons/main/icons/Apps/KTMCloud.png"
+    },
+    {
+      "name": "aliyunpan",
+      "url": "https://raw.githubusercontent.com/cyj2023/icons/main/icons/Apps/aliyunpan.png"
     }
   ]
 }
