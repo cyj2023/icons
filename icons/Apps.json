@@ -1,6 +1,6 @@
 {
   "name": "图标订阅",
-  "description": "收集一些自己常用的图标,更新日期：2024-3-16 16:02:00",
+  "description": "收集一些自己常用的图标,更新日期：2024-5-6 15:09:00",
   "icons": [
     {
       "name": "MEGA",
@@ -41,6 +41,10 @@
     {
       "name": "acfun",
       "url": "https://raw.githubusercontent.com/cyj2023/icons/main/icons/Apps/acfun.png"
+    },
+    {
+      "name": "qysj",
+      "url": "https://raw.githubusercontent.com/cyj2023/icons/main/icons/Apps/qysj.png"
     }
   ]
 }
