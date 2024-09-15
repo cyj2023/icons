@@ -1,6 +1,6 @@
 {
   "name": "图标订阅",
-  "description": "收集一些自己常用的图标,更新日期：2024-9-12 11:32:00",
+  "description": "收集一些自己常用的图标,更新日期：2024-9-15 12:55:00",
   "icons": [
     {
       "name": "MEGA",
@@ -57,6 +57,10 @@
     {
       "name": "DJJC",
       "url": "https://raw.githubusercontent.com/cyj2023/icons/main/icons/Apps/DJJC.png"
+    },
+    {
+      "name": "CST",
+      "url": "https://raw.githubusercontent.com/cyj2023/icons/main/icons/Apps/CST.png"
     }
   ]
 }
